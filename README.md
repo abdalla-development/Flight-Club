@@ -1,2 +1,6 @@
 # Flight-Club
-Flutter Application To Book, Search Flight Deals &amp; Track Flights
+
+
+This project objective is to simplify the travel experience of the user and even trying to make all travel needes inside one application as currently this project contain the features of search fly booking by specific date, search fly deals or rice drop down availble during a specified period of time and life tracking for flights to get realtime information about the flight by providing the flight number. As for future features to be added are capture translation as the user can take a photo of any context and instance translation will be provided, voice translation as the user will be able to speak and listen and as well well get instant translation, hotel booking and the addition of other types transportation could be added to allow the user to plan his journy in advance.
+The hardest part of this project was to find a suitable API for each function or a feature as for example for the flight tracking i had found two API's but the first one would provide much and more specific realtime information about the flight but as for free integration there is a limit of 100 request per the month will the other one will provide less information but the the limit is higher as 1000 per month and it somethimes returns null data which raise the need to implement null checks for the response data. Along with finding the suitable API the Implementation using GetX was complex considering the code has been done by one person that must memorize nearlly all the variables used.
+

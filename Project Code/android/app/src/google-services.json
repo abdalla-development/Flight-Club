@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244775291574",
+    "project_id": "flightbooking-e857c",
+    "storage_bucket": "flightbooking-e857c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244775291574:android:0c8c9e9d4d13fd5720b417",
+        "android_client_info": {
+          "package_name": "com.AbdallaOmer.flight_booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244775291574-h9s01h29tnn701vv36epvcft74d80q1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXuy6LJQZDWBuPkfsIRasRuVXEEcY1W6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244775291574-h9s01h29tnn701vv36epvcft74d80q1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
